@@ -24,20 +24,20 @@ README.md
 
 ## 🚀 Installation
 
-## Clone the repository and install required packages:
+## Clone the Repository and Install Required Packages
 
 ```bash
 git clone https://github.com/your-username/GlassDoor-EDA-and-ML-Model.git
 cd GlassDoor-EDA-and-ML-Model
 pip install -r requirements.txt
-
+```
 
 ## 🧠 How to Run
 Launch the notebook with
 jupyter notebook notebooks/GlassDoor_ML_Submission_Thrinadh.ipynb
 
 
-Explore sections including:
+## Explore sections including:
 
 EDA
 
@@ -58,7 +58,7 @@ Evaluation metrics
 
 ✅ Trained multiple models and selected the best-performing one
 
-📊 Visualizations
+## 📊 Visualizations
 Some insights from EDA:
 
 Distribution of salaries
@@ -71,7 +71,7 @@ Rating vs. Salary plots
 
 All visualizations are included in the Jupyter Notebook.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python 3.9
 
 Jupyter Notebook
