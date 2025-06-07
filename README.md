@@ -9,12 +9,14 @@ This project involves **Exploratory Data Analysis (EDA)** and building a **Machi
 ## 📁 Project Structure
 
 GlassDoor-EDA-and-ML-Model/
-├── data/
-│ └── glassdoor_jobs.csv
-├── notebooks/
-│ └── GlassDoor_ML_Submission_Thrinadh.ipynb
-├── requirements.txt
-└── README.md
+
+data/glassdoor_jobs.csv
+
+notebooks/GlassDoor_ML_Submission_Thrinadh.ipynb
+
+requirements.txt
+
+README.md
 
 
 
