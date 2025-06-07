@@ -48,6 +48,7 @@ Model training and testing
 Evaluation metrics
 
 ✅ Features and Workflow
+
 ✅ Cleaned noisy/unstructured salary estimates
 
 ✅ Parsed company size and rating
